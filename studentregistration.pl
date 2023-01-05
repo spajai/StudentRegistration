@@ -45,7 +45,7 @@ unless ($res->{loopexit} =~ /y/ig) {
     }
 # Quit
     elsif ($res->{main} == 5) {
-        print "Thanks for using FedUni Results Manager!\n";
+        print "Thanks for using Spajai Results Manager! author spajai@cpan.org \n";
         exit;
     }
 }
